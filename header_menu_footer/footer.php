@@ -1,8 +1,9 @@
-<?php
 
-/* 
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+<footer>
+    
+    <h1>  ISFCE 2016 PROJET WEB </h1>
+</footer>
+
+
+
 

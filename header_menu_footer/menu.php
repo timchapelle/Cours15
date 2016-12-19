@@ -1,8 +1,15 @@
-<?php
 
-/* 
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
+<NAV>
+    
+    <UL>
+        <li> <a href="http://www.isfce.org/Utilitaire/SujetMemoire/images/Logo-ISFCE-Complet.png" > Accuiel</a></li>
+        <li> <a href="#"> Cours </a></li>
+         <li> <a href="#"> Horaire </a></li>
+        
+    </UL>
+    
+    
+</NAV> 
+
 
