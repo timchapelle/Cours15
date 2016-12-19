@@ -1,3 +1,3 @@
 # Cours15
 
-## Un projet collaboratif de timchapelle et MatthieuSchmit
+_Un projet collaboratif de timchapelle et MatthieuSchmit_
