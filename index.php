@@ -1,3 +1,5 @@
 <?php
 
-echo 'Salut';
+echo 'Salut mec';
+
+echo 'Ca roule ?';
